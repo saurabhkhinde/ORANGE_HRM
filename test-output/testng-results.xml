@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[logo verification TC is Pass]]>
+    </line>
+    <line>
+      <![CDATA[logingPanel verification TC is Pass]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15936" started-at="2022-12-01T21:50:39 IST" finished-at="2022-12-01T21:50:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15936" started-at="2022-12-01T21:50:39 IST" finished-at="2022-12-01T21:50:55 IST">
+      <class name="com.orangehrm.QAlogin.HRMTEST">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.orangehrm.QAlogin.HRMTEST@2db7a79b]" name="browserlaunch" duration-ms="15846" started-at="2022-12-01T21:50:39 IST" finished-at="2022-12-01T21:50:55 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[logo verification TC is Pass]]>
+            </line>
+            <line>
+              <![CDATA[logingPanel verification TC is Pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+      </class> <!-- com.orangehrm.QAlogin.HRMTEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
